@@ -1,0 +1,27 @@
+{
+  "name": "crud-express-mongo",
+  "version": "1.0.0",
+  "description": "this is project testing using mongo node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/suriv27121994/crud-express-mongo.git"
+  },
+  "author": "gusti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/suriv27121994/crud-express-mongo/issues"
+  },
+  "homepage": "https://gitlab.com/suriv27121994/crud-express-mongo#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
